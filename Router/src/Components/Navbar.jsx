@@ -23,6 +23,16 @@ const Navbar = () => {
                 Product
               </Link>
             </li>
+            <li className="">
+              <Link className="underline text-white text-2xl" to="/contact">
+                Contact
+              </Link>
+            </li>
+            <li className="">
+              <Link className="underline text-white text-2xl" to="/filter">
+                Filter
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
